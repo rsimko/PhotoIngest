@@ -1,0 +1,178 @@
+{
+    "profiles": [
+        {
+            "raw_make": "Canon",
+            "raw_model": "Canon EOS 5D",
+            "display_make": "Canon",
+            "display_model": "Canon EOS 5D"
+        },
+        {
+            "raw_make": "Canon",
+            "raw_model": "Canon EOS 5D Mark III",
+            "display_make": "Canon",
+            "display_model": "Canon EOS 5D Mark III"
+        },
+        {
+            "raw_make": "Canon",
+            "raw_model": "Canon EOS 5D Mark IV",
+            "display_make": "Canon",
+            "display_model": "Canon EOS 5D Mark IV"
+        },
+        {
+            "raw_make": "Canon",
+            "raw_model": "Canon EOS 5DS R",
+            "display_make": "Canon",
+            "display_model": "Canon EOS 5DS R"
+        },
+        {
+            "raw_make": "Canon",
+            "raw_model": "Canon EOS 60D",
+            "display_make": "Canon",
+            "display_model": "Canon EOS 60D"
+        },
+        {
+            "raw_make": "Canon",
+            "raw_model": "Canon EOS 6D",
+            "display_make": "Canon",
+            "display_model": "Canon EOS 6D"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "FinePix S3Pro",
+            "display_make": "FUJIFILM",
+            "display_model": "FinePix S3Pro"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "X-H1",
+            "display_make": "FUJIFILM",
+            "display_model": "X-H1"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "X-H2S",
+            "display_make": "FUJIFILM",
+            "display_model": "X-H2S"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "X-T1",
+            "display_make": "FUJIFILM",
+            "display_model": "X-T1"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "X-T2",
+            "display_make": "FUJIFILM",
+            "display_model": "X-T2"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "X-T4",
+            "display_make": "FUJIFILM",
+            "display_model": "X-T4"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "X100S",
+            "display_make": "FUJIFILM",
+            "display_model": "X100S"
+        },
+        {
+            "raw_make": "FUJIFILM",
+            "raw_model": "X100V",
+            "display_make": "FUJIFILM",
+            "display_model": "X100V"
+        },
+        {
+            "raw_make": "NIKON CORPORATION",
+            "raw_model": "NIKON D5500",
+            "display_make": "NIKON CORPORATION",
+            "display_model": "NIKON D5500"
+        },
+        {
+            "raw_make": "NIKON CORPORATION",
+            "raw_model": "NIKON D700",
+            "display_make": "NIKON CORPORATION",
+            "display_model": "NIKON D700"
+        },
+        {
+            "raw_make": "NIKON CORPORATION",
+            "raw_model": "NIKON D800",
+            "display_make": "NIKON CORPORATION",
+            "display_model": "NIKON D800"
+        },
+        {
+            "raw_make": "NIKON CORPORATION",
+            "raw_model": "NIKON D850",
+            "display_make": "NIKON",
+            "display_model": "D850"
+        },
+        {
+            "raw_make": "NIKON CORPORATION",
+            "raw_model": "NIKON Z 9",
+            "display_make": "NIKON",
+            "display_model": "Z9"
+        },
+        {
+            "raw_make": "Panasonic",
+            "raw_model": "DMC-GF1",
+            "display_make": "Panasonic",
+            "display_model": "DMC-GF1"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "DSC-RX100M2",
+            "display_make": "SONY",
+            "display_model": "DSC-RX100M2"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "DSLR-A290",
+            "display_make": "SONY",
+            "display_model": "DSLR-A290"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "ILCE-1",
+            "display_make": "SONY",
+            "display_model": "ILCE-1"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "ILCE-7C",
+            "display_make": "SONY",
+            "display_model": "ILCE-7C"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "ILCE-7CM2",
+            "display_make": "SONY",
+            "display_model": "7CM2"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "ILCE-7M3",
+            "display_make": "SONY",
+            "display_model": "ILCE-7M3"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "ILCE-7M4",
+            "display_make": "SONY",
+            "display_model": "ILCE-7M4"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "ILCE-7R",
+            "display_make": "SONY",
+            "display_model": "ILCE-7R"
+        },
+        {
+            "raw_make": "SONY",
+            "raw_model": "ILCE-7RM3",
+            "display_make": "SONY",
+            "display_model": "ILCE-7RM3"
+        }
+    ]
+}
